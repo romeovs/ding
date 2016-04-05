@@ -1,0 +1,22 @@
+{
+  "name": "trbel",
+  "version": "1.0.0",
+  "main": "index.js",
+  "bin": {
+    "ding": "index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/romeovs/ding.git"
+  },
+  "bugs": {
+    "url": "https://github.com/romeovs/ding/issues"
+  },
+  "homepage": "https://github.com/romeovs/ding#readme",
+  "description": ""
+}
